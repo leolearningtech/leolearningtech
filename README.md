@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @leolearningtech
+- 👋 Hi, I’m @Leo_Networks_
 - 👀 I’m interested in Networking and Cloud
 - 🌱 I’m currently studying for the CCNA exam.
 - 💞️ I’m looking to collaborate on ...
